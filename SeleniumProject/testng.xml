@@ -5,7 +5,7 @@
         <listener class-name="driver.RetryTransformer"/>
     </listeners>
 
-    <test name="SeleniumProject">
+    <test name="testName">
         <packages>
             <package name="testScripts"></package>
         </packages>

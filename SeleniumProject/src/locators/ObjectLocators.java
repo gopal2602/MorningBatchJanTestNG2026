@@ -25,4 +25,5 @@ public interface ObjectLocators {
     By obj_DeleteUser_Button = By.xpath("//button[contains(text(), 'Delete User')]");
     By obj_Logout_Link = By.xpath("//a[@id='logoutLink']");
     By obj_LoginPage_Header = By.id("headerContainer");
+    By obj_dummy_locator = By.xpath("");
 }
